@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Ashwini Jadhav
+- 🌱I am currently working in building Infrastructue as a service by using multiple clouds and devops tool to automate repeatative tasks.
+- 👀 I’m interested in Machine Learning , Multicloud ............ 
+- 🌱 I’m currently learning ML skills 
+- 💞️ I’m looking to collaborate on Freelancing On AWS Devops , ...
+- ✨ Pronounce me She/ Her.
